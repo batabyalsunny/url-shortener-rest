@@ -22,6 +22,6 @@
     "express": "^4.15.3",
     "hashids": "^1.1.1",
     "jsonfile": "^3.0.1",
-    "mongoose": "^4.11.1"
+    "mongoose": "^5.7.5"
   }
 }
